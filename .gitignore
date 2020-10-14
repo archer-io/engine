@@ -1,3 +1,6 @@
+~*
+*.swo
+*.swp
 /lib
 /bin
 /web.config
